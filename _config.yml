@@ -70,8 +70,10 @@ content:
   - title: Work Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: Vanderbilt Institute for Software Integrated Systems
+
+      - layout: left
         link: https://github.com/NSFOpenData
         link_text: NSFOpenData
         sub_title: Research Assistant
@@ -86,15 +88,17 @@ content:
         sub_title: Summer Intern
         caption: May 2022 - July 2022
         description: |
-                - Ported a symbolic analysis tool to the web and deployed at formula.isis.vanderbilt.edu for the use of the VUISIS lab
-                - Developed a more accessible way to analyze Formula as a text editor with a terminal interface viewable in browser using technologies such as Wasm, React, Monaco Editor, Tree-sitter, Webpack, Express.js, Node, WebSockets, and Xterm.js
+                - Ported a symbolic analysis tool to the web and deployed at formula.isis.vanderbilt.edu for the use of VUISIS
+                - Developed an accessible way to use Formula as an in-browser text editor with a terminal interface using Wasm, React, Monaco Editor, Tree-sitter, Webpack, Express.js, Node, WebSockets, and Xterm.js
+
+      - layout: top-middle
+        title: AI4ALL
 
       - layout: left
-        title: AI4ALL
         sub_title: Chapter Lead, Arizona State University + University of Texas at El Paso AI4ALL Chapter	
         caption: December 2021 - Current
         description: | # this will include new lines to allow paragraphs
-                - Planned and implemented approximately six events (such as guest lectures and speaker panels) meant to encourage interest in AI as well as build community among the roughly 30 highschool students of the ASU and UTEP AI4ALL chapter
+                - Planned and implemented approximately six events (such as guest lectures and speaker panels) meant to encourage interest in AI as well as build community among the roughly 30 highschool students of the chapter
                 - Collaborated with the Stanford University, Carnegie Mellon University, University of Michigan, and Boston University AI4ALL chapter for a combined reach of roughly 200 people
       
       - layout: left
@@ -110,44 +114,43 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        title: VandyHacks IX Promo Site
+        link: https://github.com/VandyHacks/vh9-promo-site
+        link_text: Project Website
+        caption: June 2022 - Current
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          - Developer for the VandyHacks promotional site meant for the hundreds of participants of the annual VandyHacks hackathon using Svelte, Next.js, and Tailwind CSS
 
-  - title: Experience # Title for the section
+      - layout: top-middle
+        title: WalkSafe
+        caption: December 2020 - Current
+        description: | # this will include new lines to allow paragraphs
+          - Full stack mobile app programmer for the personal safety app WalkSafe using Wix, Twilio, and Firebase
+          - Best Social Impact winner at the annual collegiate VINES 48-HR Start-Up Weekend with an Oculus Rift VR Headset prize
+          - Second place winner at the annual international ASU Hacks for Humanity hackathon with a $500 individual cash prize
+
+      - layout: top-middle
+        title: Night Owl
+        link: https://devpost.com/software/nightowl-a8w6ru
+        link_text: Project Website
+        caption: December 2021
+        description: | # this will include new lines to allow paragraphs
+          - Backend developer for an educational networking web app created with google authentication, Firebase, React, and an Express server
+          - Space Cadet winner at the annual international collegiate VandyHacks hackathon for best use of technology taught at a VH workshop
+
+  - title: Skills # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        title: Languages
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            Javascript, Python, C++, CSS, HTML, Java, TypeScript, R, Swift, Dart, MATLAB | English, Chinese, Spanish
 
+      - layout: left
+        title: Technologies
+        description: | # this will include new lines to allow paragraphs
+            Tensorflow, MongoDB, Firebase, Express.js, Node.js, React.js, Wasm, Monaco Editor, Tree-sitter,                                Webpack, WebSockets, Xterm.js, Svelte, Next.js, and Tailwind CSS 
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 
 # Footer
