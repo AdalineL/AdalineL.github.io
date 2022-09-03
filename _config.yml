@@ -79,8 +79,8 @@ content:
         sub_title: Research Assistant
         caption: August 2022 - Current
         description: | # this will include new lines to allow paragraphs
-                - Full-stack software development on software that uses technologies such as MongoDB, OpenStack Swift, and GraphQL hosted on an Express.js server
-                - Rebuilding the existing software from Ionic React to Flutter for deployment in mobile
+                - Full-stack software development on software that uses technologies such as <mark>MongoDB</mark>, <mark>OpenStack Swift</mark>, and <mark>GraphQL</mark> hosted on an <mark>Express.js</mark> server
+                - Rebuilding the existing software from <mark>Ionic React</mark> to <mark>Flutter</mark> for deployment in mobile
       
       - layout: left
         link: https://github.com/AdalineL/Formula-Web
@@ -89,7 +89,7 @@ content:
         caption: May 2022 - July 2022
         description: |
                 - Ported a symbolic analysis tool to the web and deployed at formula.isis.vanderbilt.edu for the use of VUISIS
-                - Developed an accessible way to use Formula as an in-browser text editor with a terminal interface using Wasm, React, Monaco Editor, Tree-sitter, Webpack, Express.js, Node, WebSockets, and Xterm.js
+                - Developed an accessible way to use Formula as an in-browser text editor with a terminal interface using <mark>Wasm</mark>, <mark>React</mark>, <mark>Monaco Editor</mark>, <mark>Tree-sitter</mark>, <mark>Webpack</mark>, <mark>Express.js</mark>,<mark> Node</mark>, <mark>WebSockets</mark>, and <mark>Xterm.js</mark>
 
       - layout: top-middle
         title: AI4ALL
@@ -119,13 +119,13 @@ content:
         link_text: Project Website
         caption: June 2022 - Current
         description: | # this will include new lines to allow paragraphs
-          - Developer for the VandyHacks promotional site meant for the hundreds of participants of the annual VandyHacks hackathon using Svelte, Next.js, and Tailwind CSS
+          - Developer for the VandyHacks promotional site meant for the hundreds of participants of the annual VandyHacks hackathon using <mark>Svelte</mark>, <mark>Next.js</mark>, and <mark>Tailwind CSS</mark>
 
       - layout: top-middle
         title: WalkSafe
         caption: December 2020 - Current
         description: | # this will include new lines to allow paragraphs
-          - Full stack mobile app programmer for the personal safety app WalkSafe using Wix, Twilio, and Firebase
+          - Full stack mobile app programmer for the personal safety app WalkSafe using <mark>Wix</mark>, <mark>Twilio</mark>, and <mark>Firebase</mark>
           - Best Social Impact winner at the annual collegiate VINES 48-HR Start-Up Weekend with an Oculus Rift VR Headset prize
           - Second place winner at the annual international ASU Hacks for Humanity hackathon with a $500 individual cash prize
 
@@ -135,7 +135,7 @@ content:
         link_text: Project Website
         caption: December 2021
         description: | # this will include new lines to allow paragraphs
-          - Backend developer for an educational networking web app created with google authentication, Firebase, React, and an Express server
+          - Backend developer for an educational networking web app created with <mark>google authentication</mark>, <mark>Firebase</mark>, <mark>React</mark>, and an <mark>Express server</mark>
           - Space Cadet winner at the annual international collegiate VandyHacks hackathon for best use of technology taught at a VH workshop
 
   - title: Skills # Title for the section
@@ -144,14 +144,14 @@ content:
       - layout: left
         title: Languages
         description: | # this will include new lines to allow paragraphs
-            Javascript, Python, C++, CSS, HTML, Java, TypeScript, R, Swift, Dart, MATLAB
+            <mark>Javascript</mark>, <mark>Python</mark>, <mark>C++</mark>, <mark>CSS</mark>, <mark>HTML</mark>, <mark>Java</mark>, <mark>TypeScript</mark>, <mark>R</mark>, <mark>Swift</mark>, <mark>Dart</mark>, <mark>MATLAB</mark>
             
             English, Chinese, Spanish
 
       - layout: left
         title: Technologies
         description: | # this will include new lines to allow paragraphs
-            Tensorflow, MongoDB, Firebase, Express.js, Node.js, React.js, Wasm, Monaco Editor, Tree-sitter,                                Webpack, WebSockets, Xterm.js, Svelte, Next.js, and Tailwind CSS 
+            <mark>Tensorflow</mark>,<mark> MongoDB</mark>, <mark>Firebase</mark>, <mark>Express.js</mark>, <mark>Node.js</mark>, <mark>React.js</mark>, <mark>Wasm</mark>, <mark>Monaco Editor</mark>, <mark>Tree-sitter</mark>, <mark>Webpack</mark>, <mark>WebSockets</mark>, <mark>Xterm.js</mark>, <mark>Svelte</mark>, <mark>Next.js</mark>, and <mark>Tailwind CSS</mark> 
 
 
 
