@@ -144,7 +144,9 @@ content:
       - layout: left
         title: Languages
         description: | # this will include new lines to allow paragraphs
-            Javascript, Python, C++, CSS, HTML, Java, TypeScript, R, Swift, Dart, MATLAB | English, Chinese, Spanish
+            Javascript, Python, C++, CSS, HTML, Java, TypeScript, R, Swift, Dart, MATLAB
+            
+            English, Chinese, Spanish
 
       - layout: left
         title: Technologies
