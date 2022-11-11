@@ -91,6 +91,35 @@ content:
                 - Ported a symbolic analysis tool to the web and deployed at formula.isis.vanderbilt.edu for the use of VUISIS
                 - Developed an accessible way to use Formula as an in-browser text editor with a terminal interface using <mark>Wasm</mark>, <mark>React</mark>, <mark>Monaco Editor</mark>, <mark>Tree-sitter</mark>, <mark>Webpack</mark>, <mark>Express.js</mark>,<mark> Node</mark>, <mark>WebSockets</mark>, and <mark>Xterm.js</mark>
 
+
+      - layout: top-middle
+        title: Vanderbilt Data Science
+
+      - layout: left
+        sub_title: President and Founder
+        caption: August 2022 - Current
+        description: | # this will include new lines to allow paragraphs
+                - Spearheads Vanderbilt’s only student-led Data Science club
+                - Directs general body meetings with over 100 attendees, technical workshops with over 80% active participation, and manages all the currently raised funds ($850 of which is funded by the Vanderbilt Data Science Institute)
+                - Leads weekly board meetings, delegates tasks to other members of the club, manages communication between cross-functional teams, and coordinates outreach efforts for partnerships with local nonprofits.
+                - Founded and oversees the 7 yearly data science projects that each include 1 product manager and 4-5 developers.
+
+    
+      - layout: top-middle
+        title: Change++
+
+      - layout: left
+        link: https://f2fn.org/
+        link_text: f2f
+        sub_title: Engineering Manager
+        caption: August 2022 - Current
+        description: | # this will include new lines to allow paragraphs
+                - Designs the architecture needed to create a cross-platform (for mobile and web) EdTech software for f2f 
+                - Co-leads in product discovery conversations with stakeholders, manages 5 developers in a team of 7, and responsible for determining project milestones and assigning tasks to developers to meet them.
+                - Uses technologies such as <mark>MongoDB</mark>, <Mark>Express.js</Mark>, <Mark>React.js</Mark>, and <Mark>Node.js</Mark>
+
+
+
       - layout: top-middle
         title: AI4ALL
 
@@ -114,12 +143,13 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: VandyHacks IX Promo Site
-        link: https://github.com/VandyHacks/vh9-promo-site
+        title: VandyHacks IX
+        link: https://vandyhacks.org/ 
         link_text: Project Website
         caption: June 2022 - Current
         description: | # this will include new lines to allow paragraphs
-          - Developer for the VandyHacks promotional site meant for the hundreds of participants of the annual VandyHacks hackathon using <mark>Svelte</mark>, <mark>Next.js</mark>, and <mark>Tailwind CSS</mark>
+          - Front-end developer for the VandyHacks promotional site meant for the hundreds of participants of the annual VandyHacks hackathon (largest hackathon in the U.S. South) using <mark>Svelte</mark>, <mark>Next.js</mark>, and <mark>Tailwind CSS</mark>
+          - Back-end developer for the VandyHacks application portal, Witness using <mark>MongoDB</mark>, <mark>AWS</mark>, and <mark>Typescript</mark>
 
       - layout: top-middle
         title: WalkSafe
@@ -151,7 +181,7 @@ content:
       - layout: left
         title: Technologies
         description: | # this will include new lines to allow paragraphs
-            <mark>Tensorflow</mark>,<mark> MongoDB</mark>, <mark>Firebase</mark>, <mark>Express.js</mark>, <mark>Node.js</mark>, <mark>React.js</mark>, <mark>Wasm</mark>, <mark>Monaco Editor</mark>, <mark>Tree-sitter</mark>, <mark>Webpack</mark>, <mark>WebSockets</mark>, <mark>Xterm.js</mark>, <mark>Svelte</mark>, <mark>Next.js</mark>, and <mark>Tailwind CSS</mark> 
+                  <mark>Adobe Photoshop</mark>, <mark>Notion</mark>, <mark>Figma</mark>, <mark>Canva</mark>, <mark>Tensorflow</mark>, <mark>MongoDB</mark>, <mark>AWS</mark>, <mark>Firebase</mark>, <mark>Flutter</mark>, <mark>Express.js</mark>, <mark>Node.js</mark>, <mark>React.js</mark>, <mark>Wasm</mark>, <mark>Monaco Editor</mark>, <mark>Tree-sitter</mark>, <mark>Webpack</mark>, <mark>WebSockets</mark>, <mark>Socket.io</mark>, <mark>Xterm.js</mark>, <mark>Svelte</mark>, <mark>Next.js</mark>, and <mark>Tailwind CSS</mark>  
 
 
 
