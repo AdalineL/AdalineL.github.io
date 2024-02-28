@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Adaline Leong
-title: Sophomore at Vanderbilt University
+title: Junior at Vanderbilt University
 email: jia.yin.leong@vanderbilt.edu
 website: https://adalinel.github.io/
 
@@ -48,9 +48,7 @@ linkedin_username: jiayinleong
 # about_title: About Me
 about_profile_image: images/profile.JPG
 about_content: | # this will include new lines to allow paragraphs
-  My name is Adaline and I am a current sophomore at Vanderbilt University majoring in computer science and minoring in data science and business.
-
-  Currently, I am a research assistant in the Vanderbilt Institute for Software Integrated Systems for the [Improving Community and Neighborhood Safety Through Open Data Collection project](https://cps-vo.org/node/77162) lead by Professor Daniel Balasubramanian.
+  My name is Adaline and I am a current junior at Vanderbilt University majoring in computer science and minoring in data science and business.
 
 content:
   - title: Education # Title for the section
@@ -77,7 +75,7 @@ content:
         link: https://github.com/NSFOpenData
         link_text: NSFOpenData
         sub_title: Research Assistant
-        caption: August 2022 - Current
+        caption: August 2022 - December 2023
         description: | # this will include new lines to allow paragraphs
                 - Full-stack software development on software that uses technologies such as <mark>MongoDB</mark>, <mark>OpenStack Swift</mark>, and <mark>GraphQL</mark> hosted on an <mark>Express.js</mark> server
                 - Rebuilding the existing software from <mark>Ionic React</mark> to <mark>Flutter</mark> for deployment in mobile
@@ -112,7 +110,7 @@ content:
         link: https://f2fn.org/
         link_text: f2f
         sub_title: Engineering Manager
-        caption: August 2022 - Current
+        caption: August 2022 - May 2023
         description: | # this will include new lines to allow paragraphs
                 - Designs the architecture needed to create a cross-platform (for mobile and web) EdTech software for f2f 
                 - Co-leads in product discovery conversations with stakeholders, manages 5 developers in a team of 7, and responsible for determining project milestones and assigning tasks to developers to meet them.
@@ -125,7 +123,7 @@ content:
 
       - layout: left
         sub_title: Chapter Lead, Arizona State University + University of Texas at El Paso AI4ALL Chapter	
-        caption: December 2021 - Current
+        caption: December 2021 - January 2023
         description: | # this will include new lines to allow paragraphs
                 - Planned and implemented approximately six events (such as guest lectures and speaker panels) meant to encourage interest in AI as well as build community among the roughly 30 highschool students of the chapter
                 - Collaborated with the Stanford University, Carnegie Mellon University, University of Michigan, and Boston University AI4ALL chapter for a combined reach of roughly 200 people
@@ -146,18 +144,10 @@ content:
         title: VandyHacks IX
         link: https://vandyhacks.org/ 
         link_text: Project Website
-        caption: June 2022 - Current
+        caption: June 2022 - October 2022
         description: | # this will include new lines to allow paragraphs
           - Front-end developer for the VandyHacks promotional site meant for the hundreds of participants of the annual VandyHacks hackathon (largest hackathon in the U.S. South) using <mark>Svelte</mark>, <mark>Next.js</mark>, and <mark>Tailwind CSS</mark>
           - Back-end developer for the VandyHacks application portal, Witness using <mark>MongoDB</mark>, <mark>AWS</mark>, and <mark>Typescript</mark>
-
-      - layout: top-middle
-        title: WalkSafe
-        caption: December 2020 - Current
-        description: | # this will include new lines to allow paragraphs
-          - Full stack mobile app programmer for the personal safety app WalkSafe using <mark>Wix</mark>, <mark>Twilio</mark>, and <mark>Firebase</mark>
-          - Best Social Impact winner at the annual collegiate VINES 48-HR Start-Up Weekend with an Oculus Rift VR Headset prize
-          - Second place winner at the annual international ASU Hacks for Humanity hackathon with a $500 individual cash prize
 
       - layout: top-middle
         title: Night Owl
