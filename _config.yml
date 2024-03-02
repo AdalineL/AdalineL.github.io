@@ -77,8 +77,8 @@ content:
         sub_title: Research Assistant
         caption: August 2022 - December 2023
         description: | # this will include new lines to allow paragraphs
-                - Full-stack software development on software that uses technologies such as <mark>MongoDB</mark>, <mark>OpenStack Swift</mark>, and <mark>GraphQL</mark> hosted on an <mark>Express.js</mark> server
-                - Rebuilding the existing software from <mark>Ionic React</mark> to <mark>Flutter</mark> for deployment in mobile
+                - Developed the frontend of a <mark>Flutter</mark> mobile application based off of an existing <mark>Ionic React</mark> full-stack software
+                - Enhancing the maintainability and scalability of legacy codebase that uses <mark>Expo</mark>, <mark>React Native</mark>, <mark>tRPC</mark>, and <mark>Prisma</mark>
       
       - layout: left
         link: https://github.com/AdalineL/Formula-Web
@@ -88,6 +88,7 @@ content:
         description: |
                 - Ported a symbolic analysis tool to the web and deployed at formula.isis.vanderbilt.edu for the use of VUISIS
                 - Developed an accessible way to use Formula as an in-browser text editor with a terminal interface using <mark>Wasm</mark>, <mark>React</mark>, <mark>Monaco Editor</mark>, <mark>Tree-sitter</mark>, <mark>Webpack</mark>, <mark>Express.js</mark>,<mark> Node</mark>, <mark>WebSockets</mark>, and <mark>Xterm.js</mark>
+                - Presented results in the annual Vanderbilt Undergraduate Research Fair as part of the VUISIS summer research internship
 
 
       - layout: top-middle
@@ -101,6 +102,7 @@ content:
                 - Directs general body meetings with over 100 attendees, technical workshops with over 80% active participation, and manages all the currently raised funds ($850 of which is funded by the Vanderbilt Data Science Institute)
                 - Leads weekly board meetings, delegates tasks to other members of the club, manages communication between cross-functional teams, and coordinates outreach efforts for partnerships with local nonprofits.
                 - Founded and oversees the 7 yearly data science projects that each include 1 product manager and 4-5 developers.
+                - Accepted into Clinton Global Initiative University 2023 
 
     
       - layout: top-middle
@@ -112,8 +114,8 @@ content:
         sub_title: Engineering Manager
         caption: August 2022 - May 2023
         description: | # this will include new lines to allow paragraphs
-                - Designs the architecture needed to create a cross-platform (for mobile and web) EdTech software for f2f 
-                - Co-leads in product discovery conversations with stakeholders, manages 5 developers in a team of 7, and responsible for determining project milestones and assigning tasks to developers to meet them.
+                - Designed the architecture needed to create a cross-platform (for mobile and web) EdTech software for f2f 
+                - Co-lead in product discovery conversations with stakeholders, manages 5 developers in a team of 7, and responsible for determining project milestones and assigning tasks to developers to meet them.
                 - Uses technologies such as <mark>MongoDB</mark>, <Mark>Express.js</Mark>, <Mark>React.js</Mark>, and <Mark>Node.js</Mark>
 
 
