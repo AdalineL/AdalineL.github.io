@@ -13,8 +13,8 @@ export const RESUME_DATA = {
   name: "Adaline Leong",
   // initials: "AL",
   location: "Nashville, TN, USA",
-  // locationLink:
-  //   "https://www.google.com/maps/place/Vanderbilt+University/@36.1447077,-86.80523,17z/data=!3m1!4b1!4m6!3m5!1s0x886466a4a6ef8047:0xea511455173915d6!8m2!3d36.1447034!4d-86.8026551!16zL20vMDFwcTR3?entry=ttu&g_ep=EgoyMDI1MDEyNi4wIKXMDSoASAFQAw%3D%3D",
+  locationLink:
+    "https://www.google.com/maps/place/Vanderbilt+University/@36.1447077,-86.80523,17z/data=!3m1!4b1!4m6!3m5!1s0x886466a4a6ef8047:0xea511455173915d6!8m2!3d36.1447034!4d-86.8026551!16zL20vMDFwcTR3?entry=ttu&g_ep=EgoyMDI1MDEyNi4wIKXMDSoASAFQAw%3D%3D",
   about:
     "Undergraduate student majoring in Computer Science graduating in Fall 2025",
   // summary: (
@@ -26,7 +26,7 @@ export const RESUME_DATA = {
   //   </>
   // ),
   avatarUrl: LeongLogo,
-  // personalWebsiteUrl: "https://jarocki.me",
+  personalWebsiteUrl: "https://adalinel.github.io/",
   contact: {
     email: "jia.yin.leong@vanderbilt.edu",
     tel: "+14807388550",

@@ -5,20 +5,20 @@ import { RESUME_DATA } from "@/data/resume-data";
 type Education = (typeof RESUME_DATA)["education"][number];
 
 interface EducationPeriodProps {
-  start: Education["start"];
+  // start: Education["start"];
   end: Education["end"];
 }
 
 /**
  * Displays the education period in a consistent format
  */
-function EducationPeriod({ start, end }: EducationPeriodProps) {
+function EducationPeriod({ end }: EducationPeriodProps) {
   return (
     <div
       className="text-sm tabular-nums text-gray-500"
-      aria-label={`Period: ${start} to ${end}`}
+      aria-label={`Graduation Data: ${end}`}
     >
-      {start} - {end}
+      {end}
     </div>
   );
 }
@@ -31,7 +31,7 @@ interface EducationItemProps {
  * Individual education card component
  */
 function EducationItem({ education }: EducationItemProps) {
-  const { school, start, end, degree } = education;
+  const { school, end, degree } = education;
 
   return (
     <Card>
@@ -43,7 +43,7 @@ function EducationItem({ education }: EducationItemProps) {
           >
             {school}
           </h3>
-          <EducationPeriod start={start} end={end} />
+          <EducationPeriod end={end} />
         </div>
       </CardHeader>
       <CardContent

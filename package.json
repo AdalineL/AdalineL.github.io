@@ -2,11 +2,13 @@
   "name": "web-cv",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://adalinel.github.io/repo-name",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "deploy": "npm run build && git checkout -b gh-pages && cp -r out/* ./ && git add . && git commit -m 'Deploy to GitHub Pages' && git push origin gh-pages --force"
   },
   "dependencies": {
     "@apollo/server": "^4.10.2",

@@ -7,6 +7,7 @@ import { Education } from "./components/Education";
 import { Summary } from "./components/Summary";
 import { Skills } from "./components/Skills";
 import { Header } from "./components/Header";
+import { LeongLogo } from "@/images/logos";
 
 export const metadata: Metadata = {
   title: `${RESUME_DATA.name} - Resume`,
@@ -18,18 +19,12 @@ export const metadata: Metadata = {
     locale: "en_US",
     images: [
       {
-        url: "https://cv.jarocki.me/opengraph-image",
+        url: "",
         width: 1200,
         height: 630,
         alt: `${RESUME_DATA.name}'s profile picture`,
       },
     ],
-  },
-  twitter: {
-    card: "summary_large_image",
-    title: `${RESUME_DATA.name} - Resume`,
-    description: RESUME_DATA.about,
-    images: ["https://cv.jarocki.me/opengraph-image"],
   },
 };
 
@@ -72,7 +67,7 @@ export default function ResumePage() {
         <Header />
 
         <div className="space-y-8 print:space-y-4">
-          <Summary summary={RESUME_DATA.summary} />
+          {/* <Summary summary={RESUME_DATA.summary} /> */}
 
           <WorkExperience work={RESUME_DATA.work} />
 

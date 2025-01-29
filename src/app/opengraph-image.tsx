@@ -36,7 +36,7 @@ export default async function Image() {
           }}
         >
           <img
-            src={RESUME_DATA.avatarUrl}
+            // src={RESUME_DATA.avatarUrl}
             alt={RESUME_DATA.name}
             style={{
               width: "150px",
@@ -72,17 +72,13 @@ export default async function Image() {
               gap: "1rem",
             }}
           >
-            {RESUME_DATA.contact.email && (
-              <div style={{ fontSize: "1rem", color: "#666" }}>
-                {RESUME_DATA.personalWebsiteUrl}
-              </div>
-            )}
+            {RESUME_DATA.contact.email}
           </div>
         </div>
       </div>
     ),
     {
       ...size,
-    },
+    }
   );
 }
