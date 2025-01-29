@@ -12,6 +12,7 @@ import MonitoLogo from "./monito.svg";
 import MobileVikingsLogo from "./mv.png";
 import NSNLogo from "./nsn.svg";
 import ParabolLogo from "./parabol.svg";
+import LeongLogo from "./leong.jpg";
 import TastyCloudLogo from "./tastycloud.png";
 import YearProgressLogo from "./yearprogress.svg";
 import Minimal from "./minimal.svg";
@@ -31,6 +32,7 @@ export {
   MobileVikingsLogo,
   NSNLogo,
   ParabolLogo,
+  LeongLogo,
   TastyCloudLogo,
   YearProgressLogo,
   Minimal,
